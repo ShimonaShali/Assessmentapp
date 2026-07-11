@@ -1,0 +1,1 @@
+This file contains the details about the Index page with style and fields.
